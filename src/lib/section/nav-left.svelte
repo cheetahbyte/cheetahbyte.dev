@@ -9,9 +9,9 @@
 
 <nav>
     <div class="s">
-        <a href="/" id="discord">DC</a>
-        <a href="/">TW</a>
-        <a href="/">GH</a>
+        <a href="https://discord.gg/fP6nhSKkA2" id="discord">DC</a>
+        <!-- <a href="/">TW</a> -->
+        <a href="https://github.com/cheetahbyte">GH</a>
         <div class="line" />
     </div>
     <div class="s" style="justify-content: end;">
