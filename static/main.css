@@ -1,0 +1,25 @@
+:root {
+    --whiter: #f7f6f6;
+    --white: #f9f9f9;
+    --black: #1a1818;
+    --grey: #464545;
+    --light-grey: #e4e4e4;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--whiter);
+}
+
+* {
+    font-family: Montserrat, sans-serif;
+    color: var(--black);
+}
+
+section {
+    width: 60vw;
+    height: 60vh;
+    background: var(--whiter);
+    padding: 20vh 20vw 20vh 20vw;
+}
