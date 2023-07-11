@@ -3,8 +3,8 @@
 </script>
 
 <section style="padding-left: 20vw; padding-right: 20vw;" id="#skills">
-    <h1>Skills</h1>
-    <p>These are some of my skills.</p>
+    <h1 data-aos="fade-up">Skills</h1>
+    <p data-aos="fade-up">These are some of my skills.</p>
     <br /><br /><br />
     <div class="skills">
         <Skill name="Python" />
@@ -13,7 +13,7 @@
         <Skill name="CSS3" />
         <Skill name="TypeScript" />
     </div>
-    <div class="line" />
+    <div class="line" data-aos="fade-up"/>
     <div class="skills grid-1">
         <Skill name="FastAPI" />
         <Skill name="Git"/>

@@ -7,7 +7,7 @@
     });
 </script>
 
-<nav>
+<nav data-aos="fade-left">
     <div class="s">
         <a href="https://discord.gg/fP6nhSKkA2" id="discord">DC</a>
         <!-- <a href="/">TW</a> -->

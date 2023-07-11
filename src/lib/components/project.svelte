@@ -3,7 +3,7 @@
     export let description: string = ""
 </script>
 
-<div class="project">
+<div class="project" data-aos="fade-up">
     <h1 style="text-transform: capitalize;">{title}</h1>
     <p>
         {description}

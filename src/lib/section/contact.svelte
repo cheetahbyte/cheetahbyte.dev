@@ -1,5 +1,5 @@
-<section id="contact">
-    <h1 style="font-size: 3rem; margin: 0;">Thank you for visiting my portfolio!</h1>
+<section id="contact" >
+    <h1 data-aos="fade-up" style="font-size: 3rem; margin: 0;">Thank you for visiting my portfolio!</h1>
     
 </section>
 <style>

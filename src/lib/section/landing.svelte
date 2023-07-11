@@ -1,13 +1,13 @@
 <main>
-    <div class="content">
-        <div class="text">
+    <div class="content" >
+        <div class="text" data-aos="fade-up">
             <h1 class="username">cheetahbyte</h1>
             <h1 style="z-index: 1000; margin-top: 0;">student & developer.</h1>
             <p style="width: 70%; line-height: 20px;">Hey there, I am Leo! An eighteen-year-old developer with a focus on front-end and user interfaces based in Belgium. </p>
             <br>
         </div>
 
-        <img src="/cheetah.png" alt="Gepard" />
+        <img src="/cheetah.png" alt="Gepard" data-aos="fade-up"/>
     </div>
 
 </main>

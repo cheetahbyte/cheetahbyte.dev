@@ -3,8 +3,8 @@
 </script>
 
 <section id="#work">
-    <h1>Work</h1>
-    <p>These are a selection of my projects.</p>
+    <h1 data-aos="fade-up">Work</h1>
+    <p data-aos="fade-up">These are a selection of my projects.</p>
     <br /><br /><br />
     <div class="projects">
         <Project

@@ -17,7 +17,7 @@
 
 </script>
 
-<div>
+<div data-aos="fade-up">
     <img src={icon} alt={name} />
     <h3 style="font-weight: 400;" on:mouseenter={e => checkArch()}>{name}</h3>
 </div>
